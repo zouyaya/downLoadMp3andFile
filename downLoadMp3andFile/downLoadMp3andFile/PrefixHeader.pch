@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  downLoadMp3andFile
+//
+//  Created by izaodao on 17/3/16.
+//  Copyright © 2017年 izaodao. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define k_downLoadSoundsFileDomain @"http://izaodao.com/app/zdword/"
+
+#endif /* PrefixHeader_pch */
